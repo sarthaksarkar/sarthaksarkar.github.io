@@ -9,6 +9,7 @@ Education
 |        2019        | class 10 |  DPS Bhopal |
 |        2021        | class 12 |  DPS Bhopal |
 |        2024        |  B.Tech  |     IIT Goa |
+
 autumn semester
 - ## CS101: Introduction to computing by *Dr. Clint P George* [link](https://clintpgeorge.github.io/cs-101/autumn-2021/)
 
